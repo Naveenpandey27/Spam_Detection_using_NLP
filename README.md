@@ -35,7 +35,7 @@ cd spam-detection
 
 ## Dataset
 
-The dataset used for this project is publicly available on [GitHub](https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download/blob/master/spam.tsv). It contains two columns: 'message' (text of the message) and 'label' ('ham' or 'spam').
+The dataset used for this project is publicly available on [GitHub](spam.csv). It contains two columns: 'message' (text of the message) and 'label' ('ham' or 'spam').
 
 ## Model
 
@@ -49,4 +49,4 @@ We use a Random Forest Classifier to train a machine learning model. The model i
 
 ## Acknowledgments
 
-- The dataset used in this project is sourced from [laxmimerit's GitHub repository](https://github.com/laxmimerit/All-CSV-ML-Data-Files-Download).
+- The dataset used in this project is sourced from GitHub.
