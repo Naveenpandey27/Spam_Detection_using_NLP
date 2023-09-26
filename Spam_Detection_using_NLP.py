@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Read the dataset from a URL and store it in 'data'
-data = pd.read_csv('https://raw.githubusercontent.com/laxmimerit/All-CSV-ML-Data-Files-Download/master/spam.tsv', sep='\t')
+data = pd.read_csv('spam.csv', sep='\t')
 
 # Display the first few rows of the dataset
 data.head()
